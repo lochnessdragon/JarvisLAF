@@ -1,5 +1,5 @@
 # JarvisLAF
-![(https://travis-ci.com/lochnessdragon/JarvisLAF.svg?branch=master&status=created)](https://travis-ci.com/lochnessdragon/JarvisLAF.svg?branch=master&status=created)
+[![Build Status](https://travis-ci.com/lochnessdragon/JarvisLAF.svg?branch=master)](https://travis-ci.com/lochnessdragon/JarvisLAF)
 
 A java swing look and feel replicating J.A.R.V.I.S. from Iron Man
 
